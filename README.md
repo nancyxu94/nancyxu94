@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Web Design by Myself
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach out me by 
-      -email: nancyxu94@gmail.com
+      -Email: nancyxu94@gmail.com
+      -Linkedin: linkedin.com/in/nanxi-nancy-xu-3aa1ba105 
       -Instagram: nancyxuuuu
       -WeChat: Nancyxuuuuu
 <!---
