@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach out me by 
       -Email: nancyxu94@gmail.com
-      -Linkedin: linkedin.com/in/nanxi-nancy-xu-3aa1ba105 
+      -Linkedin: linkedin.com/in/nanxi-nancy-xu-3aa1ba105
+      -Personal Page: file:///Users/nanxixu/Desktop/Web%20Design%20Self%20Study/PersonalPage/index.html#   
       -Instagram: nancyxuuuu
       -WeChat: Nancyxuuuuu
 <!---
